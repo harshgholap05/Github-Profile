@@ -123,12 +123,15 @@ A passionate **Data Analyst** diving deep into **Financial Analytics and Generat
 
 ## 🏆 Certifications & Achievements
 
-| 🎖️ Achievement | 📜 Category | 📅 Status |
+| 🎖️ Achievement | 📜 Category | 📅 Date |
 |---|---|---|
+| 📄 Research Paper Publish Certificate (GenAI SQL Chatbox) | Academic / Research | 20 Apr 2026 |
 | 🏦 Reliance Industry Intern | Data Analytics & Automation | Apr 2026 |
-| 📊 Power BI Certificate | Data Visualization | Certified |
-| 🗄️ SQL | Database Management | Certified |
-| 📉 Excel | Data Analysis | Certified |
+| 📊 Power BI Certificate | Data Visualization | 31 Aug 2025 |
+| 🗄️ SQL | Database Management | 31 Oct 2025 |
+| 📉 Excel | Data Analysis | 31 May 2025 |
+| 🌐 Foundation of Data Everywhere | Data Fundamentals | 5 Feb 2025 |
+| 🐍 Python | Programming | 25 Jan 2025 |
 | 🏅 [NISM Certified Series 8](https://github.com/harshgholap05/Certificate) | Financial Markets & Securities | Dec 2024 |
 
 > 🔗 **[View all my original certificates here](https://github.com/harshgholap05/Certificate)**
