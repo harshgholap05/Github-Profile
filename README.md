@@ -168,8 +168,8 @@ I'm actively working on Analytics and Database projects. Check out my repositori
 
 *"The goal is to turn data into information, and information into insight."*
 
-![Made with Python ](https://img.shields.io/badge/Made%20with-Data-3776AB?style=flat-square&logo=python&logoColor=white)
-![Powered by AI](https://img.shields.io/badge/Powered%20by-SQL-FF6F00?style=flat-square&logo=postgresql&logoColor=white)
+![Made with Python ](https://img.shields.io/badge/Made%20with-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Powered by AI](https://img.shields.io/badge/Powered%20by-AI-FF6F00?style=flat-square&logo=postgresql&logoColor=white)
 ![Built with Passion](https://img.shields.io/badge/Built%20with-Passion-FF1744?style=flat-square&logoColor=white)
 
 </div>
