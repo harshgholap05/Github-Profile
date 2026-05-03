@@ -1,9 +1,12 @@
-<div align="center">
+# 🚀 Harshvardhan Gholap | Data Analyst & GenAI Builder
 
-![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-brightgreen?style=for-the-badge&logo=handshake&logoColor=white)
-![Data Analyst](https://img.shields.io/badge/DATA%20ANALYST-0d0d0d?style=for-the-badge&logo=databricks&logoColor=00ff64)
-![NISM Certified](https://img.shields.io/badge/NISM%20CERTIFIED-0d0d0d?style=for-the-badge&logo=checkmarx&logoColor=f59e0b)
-![Status](https://img.shields.io/badge/STATUS-Automating%20Everything-0d0d0d?style=for-the-badge&logo=statuspage&logoColor=00ff64)
+<div align="center">
+  
+  ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square&logo=handshake&logoColor=white)
+  ![Data Enthusiast](https://img.shields.io/badge/Data%20Enthusiast-100%25-blue?style=flat-square&logo=googleanalytics&logoColor=white)
+  ![Status](https://img.shields.io/badge/Status-Building%20Dashboards-blueviolet?style=flat-square&logo=rocket&logoColor=white)
+  ![GitHub followers](https://img.shields.io/github/followers/harshgholap05?label=Followers&style=flat-square&color=blue)
+  ![GitHub stars](https://img.shields.io/github/stars/harshgholap05?label=Stars&style=flat-square&color=yellow)
 
 </div>
 
@@ -12,34 +15,27 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td width="38%" align="center" valign="top">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding" style="border-radius:8px" />
+      <td width="40%" align="center" valign="top">
+        <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100%" alt="AI">
       </td>
-      <td width="62%" valign="top">
-        <h2>👋 Hi, I'm <b>Harshvardhan Gholap</b></h2>
-
+      <td width="60%" valign="top">
+        <h2>👋 Hi there! I'm <b>@harshgholap05</b></h2>
+        
 ```yaml
-name      : Harshvardhan Gholap
-role      : Data Analyst
-education : B.Tech @ Parul University
-experience: Data Analyst Intern @ Reliance Industries
-certified : NISM ✓
-
-stack:
-  - Python · SQL · Power BI · Excel
-  - MySQL · SQL Server · GenAI
-  - Pandas · NumPy · Llama3 · Groq
-
-currently_building:
-  - GenAI Text-to-SQL chatbot
-  - Real-time analytics dashboards
-  - Automated data pipelines
-
-mission   : automate the boring, analyze the rest
-```
-
-  </td>
-    </tr>
+name: Harshvardhan Gholap
+role: Data Analyst & GenAI Builder
+expertise:
+  - Data Visualization & Storytelling
+  - Relational Database Engineering
+  - Generative AI (Llama3, Groq)
+  - Real-time Analytics & Dashboards
+currently_learning:
+  - Advanced LLM Integrations
+  - Predictive Analytics
+mission: Turning messy data into clean decisions 📊
+Finance Enthusiast:
+      Certified: NISM
+```    
   </table>
 </div>
 
@@ -47,259 +43,156 @@ mission   : automate the boring, analyze the rest
 
 ## 🔥 About Me
 
-A passionate **Data Analyst** building intelligent systems at the intersection of **SQL, Python, and GenAI**. I built a **Text-to-SQL chatbot** at Reliance Industries using **Llama3 (local)** and **Groq Cloud** — enabling non-technical users to query databases using plain English. Certified in **NISM**, I combine financial market knowledge with data engineering to deliver end-to-end analytical solutions.
+A passionate **Data Analyst** diving deep into **Financial Analytics and Generative AI**. I build robust **SQL databases** and real-time **Power BI dashboards** to transform raw data into actionable business insights. Currently working on **AI-powered Data Agents** that convert natural language to SQL using **Llama3 and Groq**. Also a **finance enthusiast** and **NISM Certified** professional exploring the intersection of data and financial markets.
 
-**My Focus:** Raw Data → Clean Insights → Smart Automation → Real-time Dashboards
-
----
-
-## ⚡ `ls -la skills/`
-
-```bash
-harsh@data:~/skills$ ls -la
-
-drwxr-xr-x  languages/
-  ├── python          ████████████████████  90%  [EXPERT]
-  ├── sql             ███████████████████░  88%  [EXPERT]
-  ├── mysql           ██████████████████░░  85%  [ADVANCED]
-  └── sqlserver       █████████████████░░░  82%  [ADVANCED]
-
-drwxr-xr-x  analytics/
-  ├── power_bi        ████████████████████  88%  [ADVANCED]
-  ├── excel           ████████████████████  92%  [EXPERT]
-  ├── pandas          ███████████████████░  87%  [ADVANCED]
-  └── numpy           ████████████████░░░░  80%  [ADVANCED]
-
-drwxr-xr-x  ai_genai/
-  ├── genai_chatbot   █████████████████░░░  83%  [ADVANCED]
-  ├── llama3_local    ████████████████░░░░  78%  [INTERMEDIATE]
-  ├── groq_api        ████████████████░░░░  78%  [INTERMEDIATE]
-  └── prompt_eng      ███████████████████░  85%  [ADVANCED]
-
-drwxr-xr-x  certified/
-  └── nism            ████████████████████  ✓    [CERTIFIED]
-```
+**My Focus:** Data Engineering → GenAI Integration → Real-time Dashboards → Business Decisions
 
 ---
 
-## 🛸 Tech Stack
+## 🎓 Education & Background
 
-### 🔤 Languages & Databases
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=00ff64)
-![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=00ccff)
-![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=00ccff)
-![SQL Server](https://img.shields.io/badge/SQL_Server-0d0d0d?style=for-the-badge&logo=microsoftsqlserver&logoColor=a855f7)
+* **Major:** B.Tech Computer Science Engineering (Undergraduate)
+* **Institution:** Parul University
+* **Passion:** Building real-world data pipelines, interactive dashboards, and GenAI solutions
 
-### 📊 Analytics & Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-0d0d0d?style=for-the-badge&logo=powerbi&logoColor=f59e0b)
-![Excel](https://img.shields.io/badge/Excel-0d0d0d?style=for-the-badge&logo=microsoftexcel&logoColor=00ff64)
-![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=00ff64)
-![NumPy](https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=00ccff)
+---
 
-### 🤖 AI & GenAI
-![Llama3](https://img.shields.io/badge/Llama_3_(Local)-0d0d0d?style=for-the-badge&logo=meta&logoColor=a855f7)
-![Groq](https://img.shields.io/badge/Groq_Cloud-0d0d0d?style=for-the-badge&logo=groq&logoColor=ef4444)
-![GenAI](https://img.shields.io/badge/GenAI_Chatbot-0d0d0d?style=for-the-badge&logo=openai&logoColor=00ff64)
+## 💻 Tech Stack & Tools
+
+### 📊 Data Analytics & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+### 🔤 Programming & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🤖 AI & Development
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Llama 3](https://img.shields.io/badge/Llama_3-0466C8?style=for-the-badge&logo=meta&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-White?style=for-the-badge&logo=ollama&logoColor=black)
 
 ### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=f05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=007acc)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d0d0d?style=for-the-badge&logo=jupyter&logoColor=f37726)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## 💼 `cat experience.log`
+## 🧠 Core Competencies
 
-```
-[2022-01-01] → [2022-04-30]  RELIANCE INDUSTRIES LIMITED
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**📊 Data Visualization:** Building interactive, real-time dashboards for non-technical stakeholders.
 
-ROLE     : Data Analyst Intern
-LOCATION : India
+**🤖 GenAI Integration:** Developing text-to-SQL chatbots and schema-aware prompt engineering.
 
-COMMITS  :
-  ┌─ [GENAI]      Built Text-to-SQL chatbot using Llama3 + Groq
-  │   ├── mode: LOCAL  → Llama3  (offline, air-gapped, secure)
-  │   └── mode: CLOUD  → Groq API (fast inference, production)
-  │
-  ├─ [DATABASE]   SQL Server integration
-  │   ├── secure parameterized query execution
-  │   └── schema-aware prompt engineering
-  │
-  ├─ [DASHBOARD]  Real-time Power BI visualizations
-  │   └── for non-technical business stakeholders
-  │
-  └─ [AUTOMATION] Process automation scripts
-      └── manual effort ↓  ·  time savings ↑ ✓
+**🗄️ Database Design:** Engineering normalized databases, optimizing complex queries, and setting up triggers/RBAC.
 
-STATUS   : COMPLETED  [████████████████████] 100%
-```
+**🚀 Process Automation:** Reducing manual efforts by automating data workflows and reporting.
 
 ---
 
-## 🚀 `cat projects/genai_text_to_sql.md`
+## 💼 Experience
 
-```
-PROJECT  : GenAI Text-to-SQL Chatbot
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### 🏢 Reliance Industries Limited | Data Analyst Intern
+*(Jan 2022 – April 2022)*
+- Built a GenAI chatbot converting text to SQL using Llama3 (local) & Grok (cloud).
+- Implemented SQL Server with secure query execution and schema-aware prompt engineering.
+- Delivered real-time insights & visualizations for non-technical users.
+- Automated manual processes to achieve significant time savings.
 
-PROBLEM  : Non-technical users couldn't query databases
-SOLUTION : Natural language → SQL using GenAI
+---
 
-ARCHITECTURE :
-  User Input (plain English)
-      │
-      ▼
-  ┌─────────────────────────────┐
-  │   Prompt Engineering Layer  │  ← schema-aware context
-  └─────────────────────────────┘
-      │               │
-      ▼               ▼
-  Llama3 (local)   Groq API (cloud)
-  offline/secure   fast inference
-      │               │
-      └───────┬───────┘
-              ▼
-      SQL Server (secure execution)
-              │
-              ▼
-      Real-time Results + Visualization
+## 📊 GitHub Metrics
 
-STACK    : Python · Llama3 · Groq · SQL Server · Power BI
-IMPACT   : Non-technical users can now query data instantly
-```
+<div align="center">
+
+<table>
+  <tr>
+    <td width="25%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshgholap05&theme=radical&hide_border=true" width="100%" style="max-height:200px" />
+    </td>
+    <td width="25%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshgholap05&theme=radical" width="100%" style="max-height:200px" />
+    </td>
+    <td width="25%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshgholap05&theme=radical&exclude=Jupyter%20Notebook" width="100%" style="max-height:200px" />
+    </td>
+    <td width="25%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshgholap05&theme=radical&exclude=Jupyter%20Notebook" width="100%" style="max-height:200px" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-| 🎖️ Achievement | 📜 Issuer | 📅 Year |
+| 🎖️ Achievement | 📜 Category | 📅 Status |
 |---|---|---|
-| 🏅 NISM Certified | NISM (National Institute of Securities Markets) | 2024 |
-| 🤖 Data Analyst — GenAI Chatbot | Reliance Industries Limited | 2022 |
-| 🐍 Python for Data Analysis | Self-paced + Projects | 2022 |
-| 📊 Power BI Dashboard Development | Project-based | 2022 |
-| 🗄️ SQL Server & Database Engineering | Project-based | 2022 |
+| 🏅 [NISM Certification](https://github.com/harshgholap05/Certificate) | Financial Markets & Securities | Certified |
+| 🏦 Reliance Industries Internship | Data Analytics & Automation | Apr 2022 |
+| 🤖 GenAI Data Agent Development | AI Integration | 2024 |
+
+> 🔗 **[View all my original certificates here](https://github.com/harshgholap05/Certificate)**
 
 ---
 
-## 📊 `./run stats --user harshgholap05`
+## 🌱 What I'm Learning & Goals
 
-<div align="center">
+* 🤖 Advanced LLM Integrations for Data Engineering
+* 📈 Predictive Analytics & Financial Modeling
+* 🚀 End-to-end Data Pipeline Automation
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshgholap05&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff64&icon_color=00ff64&title_color=00ff64&text_color=aaffaa&hide_border=false&rank_icon=github&ring_color=00ff64&custom_title=SYSTEM+STATS" width="420" />
+### 🎯 2026 Goals
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshgholap05&theme=dark&background=0d0d0d&border=00ff64&stroke=00ff64&ring=00ff64&fire=00ccff&currStreakNum=00ff64&sideNums=aaffaa&currStreakLabel=00ff64&sideLabels=aaffaa&dates=555555" width="420" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshgholap05&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff64&title_color=00ff64&text_color=aaffaa&hide=Jupyter%20Notebook&custom_title=MOST+USED+LANGUAGES" width="420" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshgholap05&theme=github_dark" width="860" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/harshgholap05/harshgholap05/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-</div>
+- [ ] Deploy multiple real-time Analytics Dashboards
+- [ ] Contribute to Open Source GenAI Data tools
+- [ ] Master advanced data architecture
+- [ ] Create impactful business intelligence solutions
 
 ---
 
-## 📈 `./activity --graph --realtime`
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshgholap05&bg_color=0d0d0d&color=00ff64&line=00ff64&point=00ccff&area=true&area_color=00ff6420&hide_border=false&border_color=00ff64&custom_title=CONTRIBUTION+ACTIVITY" width="100%" />
-</div>
-
----
-
-## 🏅 `./fetch trophies`
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshgholap05&theme=matrix&no-frame=true&row=1&column=6&margin-w=8" />
-</div>
-
----
-
-## 🌱 Currently Learning
-
-```bash
-harsh@data:~$ cat learning_queue.txt
-
-  [ ] Advanced GenAI — RAG, Agents, LangChain
-  [ ] MLOps — model deployment & monitoring
-  [ ] Apache Spark — big data processing
-  [ ] Tableau — advanced visualization
-  [ ] dbt — data build tool for analytics engineering
-```
-
----
-
-## 💼 Open For
-
-| 🤝 Collaborations | 💼 Full-time Roles | 🎓 Internships | 💻 Freelance |
-|---|---|---|---|
-| Data & AI projects | Data Analyst positions | Analytics internships | Dashboard & automation work |
-
----
-
-## 🌐 `./connect --all`
-
-```
-harsh@data:~$ ./connect --list
-
-  [01]  EMAIL      →  harshgholap116@gmail.com
-  [02]  LINKEDIN   →  linkedin.com/in/harshvardhan-gholap-821255326
-  [03]  GITHUB     →  github.com/harshgholap05
-```
+## 🔗 Let's Connect
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/[01]_EMAIL-harshgholap116@gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00ff64&labelColor=0d0d0d&color=00ff64)](mailto:harshgholap116@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshvardhan-gholap-821255326/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshgholap116@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshgholap05)
 
-[![LinkedIn](https://img.shields.io/badge/[02]_LINKEDIN-Harshvardhan_Gholap-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00ff64&labelColor=0d0d0d&color=00ff64)](https://www.linkedin.com/in/harshvardhan-gholap-821255326/)
-
-[![GitHub](https://img.shields.io/badge/[03]_GITHUB-@harshgholap05-0d0d0d?style=for-the-badge&logo=github&logoColor=00ff64&labelColor=0d0d0d&color=00ff64)](https://github.com/harshgholap05)
+**📧 Email:** harshgholap116@gmail.com
 
 </div>
 
 ---
 
-## 💬 Ask Me About
+## 📈 Featured Work
 
-![Python](https://img.shields.io/badge/-Python-0d0d0d?style=flat-square&logo=python&logoColor=00ff64)
-![SQL](https://img.shields.io/badge/-SQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=00ccff)
-![Power BI](https://img.shields.io/badge/-Power_BI-0d0d0d?style=flat-square&logo=powerbi&logoColor=f59e0b)
-![GenAI](https://img.shields.io/badge/-GenAI_Chatbots-0d0d0d?style=flat-square&logo=openai&logoColor=00ff64)
-![Text-to-SQL](https://img.shields.io/badge/-Text_to_SQL-0d0d0d?style=flat-square&logo=databricks&logoColor=a855f7)
-![Data Automation](https://img.shields.io/badge/-Data_Automation-0d0d0d?style=flat-square&logo=github-actions&logoColor=00ccff)
-![NISM](https://img.shields.io/badge/-NISM_Markets-0d0d0d?style=flat-square&logo=checkmarx&logoColor=f59e0b)
+I'm actively working on Analytics and Database projects. Check out my repositories for:
+- **GenAI SQL Chatbox:** AI-powered agent connecting to SQL Server.
+- **Credit Card Fraud Detection:** Advanced T-SQL with dynamic risk-scoring.
+- **Swiggy Sales Analysis:** Python EDA for sales performance trends.
+- **RetailDB Real-Time Project:** Production-grade SQL project.
 
 ---
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   harsh@data:~$ echo "automate the boring, analyze the rest" ║
-║   > automate the boring, analyze the rest                    ║
-║                                                              ║
-║   [session active] ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ uptime: always     ║
-╚══════════════════════════════════════════════════════════════╝
-```
+### Let's build something amazing together! 🚀
 
-**Made with ⌨️ by Harshvardhan Gholap**
+**"In God we trust, all others must bring data."**
 
-![Made with Python](https://img.shields.io/badge/Made%20with-Python-0d0d0d?style=flat-square&logo=python&logoColor=00ff64)
-![Powered by GenAI](https://img.shields.io/badge/Powered%20by-GenAI-0d0d0d?style=flat-square&logo=openai&logoColor=00ff64)
-![Built with Data](https://img.shields.io/badge/Built%20with-Data-0d0d0d?style=flat-square&logo=databricks&logoColor=00ccff)
-
-<img src="https://komarev.com/ghpvc/?username=harshgholap05&color=00ff64&style=for-the-badge&label=PROFILE+VIEWS&base=1000" />
+![Made with Data](https://img.shields.io/badge/Made%20with-Data-3776AB?style=flat-square&logo=python&logoColor=white)
+![Powered by SQL](https://img.shields.io/badge/Powered%20by-SQL-FF6F00?style=flat-square&logo=postgresql&logoColor=white)
+![Built with Passion](https://img.shields.io/badge/Built%20with-Passion-FF1744?style=flat-square&logoColor=white)
 
 </div>
