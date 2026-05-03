@@ -100,6 +100,8 @@ A passionate **Data Analyst** diving deep into **Financial Analytics and Generat
 - Delivered real-time insights & visualizations for non-technical users.
 - Automated manual processes to achieve significant time savings.
 
+> 🔗 **[Click here to view the GenAI SQL Chatbox Project](https://github.com/harshgholap05/GENAI-SQL-CHATBOX)**
+
 ---
 
 ## 📊 GitHub Metrics
