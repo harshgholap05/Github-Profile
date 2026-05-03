@@ -1,4 +1,4 @@
-# 🚀 Harshvardhan Gholap | Data Analyst & GenAI Builder
+# 🚀 Harshvardhan Gholap | Data Analyst 
 
 <div align="center">
   
